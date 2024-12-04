@@ -2624,7 +2624,7 @@ local Section = W:AddSection({
     Name = "Creditos"
 })
 
-W:AddLabel("[+] https://discord.gg/PnssYKyhd4")
+W:AddLabel("[+] https://discord.gg/nvgVsMqw")
 W:AddLabel("[+] Criador:SaintTroller")
 W:AddLabel("[+] SaintHub")
 W:AddLabel("[+] Divirta-se!")
